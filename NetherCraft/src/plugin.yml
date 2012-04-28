@@ -1,0 +1,43 @@
+name: ProsjektRedstone
+author: CXdur
+main: me.cxdur.nethercraft.NetherCraft
+description: Lol
+version: 0.1
+website: http://nethercraft.tk/
+commands:
+    m:
+      aliases:
+        - msg
+      description: messaging
+      usage: |
+             /<command>
+    kick:
+      aliases:
+        - sparkut
+      description: kicktheplayer
+      usage: |
+             /<command>
+    setspawn:
+      aliases:
+        - settspawn
+      description: setsspawn
+      usage: |
+             /<command>
+    spawn:
+      aliases:
+        - startsted
+      description: tptospawn
+      usage: |
+             /<command>
+    home:
+      aliases:
+        - hjem
+      description: ffsgethome
+      usage: |
+             /<command>
+    dropparty:
+      aliases:
+        - dp
+      description: droptheparty
+      usage: |
+             /<command>
